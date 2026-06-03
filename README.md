@@ -128,4 +128,8 @@ Through these projects, I gained practical experience in:
 - Database Optimization
 - Real-World Database Management Scenarios
 
+ ## Author
+
+Greeshma R Krishnan
+
 ---
